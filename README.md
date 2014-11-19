@@ -1,0 +1,4 @@
+hamar
+=====
+
+videregaende skole
